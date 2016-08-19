@@ -40,5 +40,14 @@
 - ### 使用 直截了当的关联 Imports
 - ### 避免使用 Import *
 - ### Django 编码风格
-#### &nbsp;&nbsp;&nbsp; 
+####  考虑Django编码规范的指导方针
+#### &nbsp;&nbsp;&nbsp; 在命名URLpatterns时使用下划线而不是破折号
+#### &nbsp;&nbsp;&nbsp; 在命名模板模块名的时候使用下划线而不是破折号
+- ### JS, HTML, CSS 风格 指南
+#### &nbsp;&nbsp;&nbsp;JS, HTML, CSS 风格 指南
+#### &nbsp;&nbsp;&nbsp;HTML ,CSS 风格指南
+- ### 永远不要用IDE编程
+- ### 总结
+
+
 
